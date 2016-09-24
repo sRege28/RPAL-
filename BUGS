@@ -1,0 +1,6 @@
+Created parser and standardized tree for RPAL
+
+To run parser type p1 -ast /src/to/program
+
+To get the ST representation, type p1 -st /src/to/proram
+
